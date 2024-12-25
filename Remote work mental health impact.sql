@@ -128,7 +128,7 @@ GROUP BY Age
 ORDER BY Age ASC, High_Stress_Count DESC;
 
 --14. What role does Physical_Activity and Sleep_Quality play in maintaining good mental health for remote workers?
---These factor does not have an impact on 
+--Physical_Activity and Sleep_Quality do not have an impact on mental health
 SELECT Physical_Activity, Sleep_Quality,
  AVG(CASE 
          WHEN Mental_Health_Condition = 'none' THEN 1
