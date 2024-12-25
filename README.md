@@ -1,6 +1,7 @@
 Exploring and Analyzing Employees' Mental Health
 
 Overview
+
 Mental health is a vital component of overall well-being, influenced by various personal and professional factors. This project investigates the relationship between work conditions (including remote work), company support, and mental health across multiple continents. It also examines the impact of virtual meetings, specifically their frequency, on employees' mental well-being using Microsoft SQL Server for data analysis. The aim is to uncover patterns and identify challenges that affect employees' mental health.
 
 NOTE:
